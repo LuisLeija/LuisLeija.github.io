@@ -1,4 +1,3 @@
-|:-:|
 <h1>Luis Leija's Portfolio</h1>
 **_________________________**
 <h2>cardiovascular infarction</h2>
