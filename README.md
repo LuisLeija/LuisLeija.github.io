@@ -1,5 +1,5 @@
 |:-:|
-# Luis Leija's Portfolio
+<h1>Luis Leija's Portfolio</h1>
 **_________________________**
-cardiovascular infarction
-dignus pingus
+<h2>cardiovascular infarction</h2>
+<h3>dignus pingus</h3>
